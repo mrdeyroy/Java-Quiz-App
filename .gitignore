@@ -1,0 +1,20 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+log/
+logs/
+*.log
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+nbactions.xml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
